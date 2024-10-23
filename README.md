@@ -1,5 +1,17 @@
 # Introducing Today's Project!
 
+<h2>Languages and Utilities Used</h2>
+
+- <b>HTML, CSS, JavaScript</b> 
+- <b>Amazon S3</b>
+- <b>AWS CLI (Command Line Interface)</b>
+
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10</b>
+- <b>AWS Management Console</b>
+
 # Build-a-Virtual-Private-Cloud
 
 # What is Amazon VPC?
@@ -63,6 +75,9 @@ I named my subnet Public 1, but that doesnʼt automatically make it a public
 subnet. For a subnet to be public, it must have a route table with a route to an
 internet gateway, and instances within it need public IP addresses assigned.
 
+<img src="Subnet 2.png" height="80%" width="80%"/>
+
+
 # Internet gateways
 
 Internet gateways are components in a VPC that enable communication
@@ -73,3 +88,5 @@ address translation (NAT).
 Attaching an internet gateway to a VPC enables direct communication between
 the VPC and the internet. This allows instances in public subnets to access the
 internet and receive inbound traffic for hosting applications.
+
+<img src="Internets Gateway panel 3.png" height="80%" width="80%"/>
