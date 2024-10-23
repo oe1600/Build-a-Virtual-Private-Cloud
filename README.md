@@ -1,3 +1,5 @@
+# Introducing Today's Project!
+
 # Build-a-Virtual-Private-Cloud
 
 # What is Amazon VPC?
@@ -13,6 +15,7 @@ I used Amazon VPC to create a secure network in today's project. I set up
 public and private subnets, configured route tables, and attached an internet
 gateway. This ensured my web servers were secure while providing scalable
 internet access.
+
 
 # One thing I didn't expect in this project was...
 
@@ -41,6 +44,8 @@ setup.
 To set up my VPC, I had to define an IPv4 CIDR, which means specifying a
 block of IP addresses using Classless Inter-Domain Routing. Itʼs written as an IP
 followed by a / and a number, determining the size of the address range.
+
+<img src="4.png" height="80%" width="80%"/>
 
 # Subnets
 
