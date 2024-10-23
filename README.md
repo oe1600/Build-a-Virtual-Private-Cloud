@@ -45,7 +45,7 @@ To set up my VPC, I had to define an IPv4 CIDR, which means specifying a
 block of IP addresses using Classless Inter-Domain Routing. Itʼs written as an IP
 followed by a / and a number, determining the size of the address range.
 
-<img src="4.png" height="80%" width="80%"/>
+<img src="VPC set up page 1.png" height="80%" width="80%"/>
 
 # Subnets
 
